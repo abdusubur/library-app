@@ -1,0 +1,47 @@
+{
+    "value":[
+      { "id": "1", "adSoyadi": "Mehmet Yılmaz", "sinifi": "11C", "ogrNo": "54321" ,"kitapAdi" :"Bilinmeyen diyarlar", "durumu": "Devam ediyor", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "2", "adSoyadi": "Zehra Toprak", "sinifi": "10A", "ogrNo": "98765" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "3", "adSoyadi": "Ayşe Can", "sinifi": "9B", "ogrNo": "55443" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "4", "adSoyadi": "Emre Aksoy", "sinifi": "12B", "ogrNo": "11222" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "5", "adSoyadi": "Burcu Yıldız", "sinifi": "10C", "ogrNo": "77665" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "6", "adSoyadi": "Eren Yılmaz", "sinifi": "11A", "ogrNo": "99090" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "7", "adSoyadi": "Esra Gür", "sinifi": "9C", "ogrNo": "22333" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "8", "adSoyadi": "Ahmet Ay", "sinifi": "12C", "ogrNo": "55660" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "9", "adSoyadi": "Seda Çelik", "sinifi": "10B", "ogrNo": "88111" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "10", "adSoyadi": "Ozan Erdoğan", "sinifi": "11B", "ogrNo": "33443" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "11", "adSoyadi": "Melis Ak", "sinifi": "12A", "ogrNo": "12345" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "12", "adSoyadi": "Deniz Güneş", "sinifi": "10A", "ogrNo": "67890" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "13", "adSoyadi": "Hakan Kaya", "sinifi": "9C", "ogrNo": "11223" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "14", "adSoyadi": "Zeynep Yılmaz", "sinifi": "11A", "ogrNo": "44556" ,"kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "15", "adSoyadi": "Tolga Çelik", "sinifi": "12B", "ogrNo": "77889" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "16", "adSoyadi": "Ebru Aydın", "sinifi": "10C", "ogrNo": "99001" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "17", "adSoyadi": "Cem Arslan", "sinifi": "11C", "ogrNo": "22334", "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "18", "adSoyadi": "Şeyma Aydın", "sinifi": "9A", "ogrNo": "55667" , "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "19", "adSoyadi": "Levent Bulut", "sinifi": "12A", "ogrNo": "88990" ,"kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"},
+      { "id": "20", "adSoyadi": "Gizem Kurt", "sinifi": "9B", "ogrNo": "33445", "kitapAdi" :" ", "durumu": " ", "start": "2022-04-01T00:00:00+03:00",
+      "end": "2022-04-02T00:00:00+03:00"}
+    ]
+    
+      
+    
+}

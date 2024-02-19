@@ -1,0 +1,185 @@
+{
+    "value": [
+      {
+        "id": "1",
+        "adi": "Gizemli ada",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/166804577X.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-123456-78-9",
+        "barkodno": "1234567890123",
+        "yazar": "Bilinmeyen yazar",
+        "yayinevi": "bilgi yayınevi"
+      },
+      {
+        "id": "2",
+        "adi": "Bilinmeyen diyarlar",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/1843681552.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-234567-89-0",
+        "barkodno": "2345678901234",
+        "yazar": "Gizemli yazar",
+        "yayinevi": "Maceraperest yayınları"
+      },
+      {
+        "id": "3",
+        "adi": "Bilgi ışığında",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0316769010.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-345678-90-1",
+        "barkodno": "3456789012345",
+        "yazar": "Bilgi aşığı",
+        "yayinevi": "Bilgi yolu yayınları"
+      },
+      {
+        "id": "4",
+        "adi": "Rüya gemisi",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0394531922.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-456789-01-2",
+        "barkodno": "4567890123456",
+        "yazar": "Hayalperest yazar",
+        "yayinevi": "Rüya kitapları"
+      },
+      {
+        "id": "5",
+        "adi": "Kayıp zamanın peşinde",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0375711511.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-567890-12-3",
+        "barkodno": "5678901234567",
+        "yazar": "Zaman yolcusu",
+        "yayinevi": "Zaman yayınları"
+      },
+      {
+        "id": "6",
+        "adi": "Uzak diyarlardan",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0486247155.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-678901-23-4",
+        "barkodno": "6789012345678",
+        "yazar": "Gezgin yazar",
+        "yayinevi": "Dünya gezi yayınları"
+      },
+      {
+        "id": "7",
+        "adi": "Bilinmeyen gece",
+        "resim": "https://pics.cdn.librarything.com/picsizes/55/8e/558e68f746041a1593453575267444341587343_v5.jpg",
+        "isbnno": "978-0-789012-34-5",
+        "barkodno": "7890123456789",
+        "yazar": "Gece kraliçesi",
+        "yayinevi": "Karanlık kitaplar"
+      },
+      {
+        "id": "8",
+        "adi": "Gökyüzüne yolculuk",
+        "resim": "https://pics.cdn.librarything.com/picsizes/c7/eb/c7eba6288c146d5596a6b593577444341587343_v5.jpg",
+        "isbnno": "978-0-890123-45-6",
+        "barkodno": "8901234567890",
+        "yazar": "Uzay yolcusu",
+        "yayinevi": "Uzay kitapları"
+      },
+      {
+        "id": "9",
+        "adi": "Sonsuz denizler",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0008221057.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-901234-56-7",
+        "barkodno": "9012345678901",
+        "yazar": "Deniz rüyaları",
+        "yayinevi": "Dalga yayınları"
+      },
+      {
+        "id": "10",
+        "adi": "Gizemli orman",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/1984879715.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-012345-67-8",
+        "barkodno": "0123456789012",
+        "yazar": "Orman masalları",
+        "yayinevi": "Masal kitapları"
+      },
+      {
+        "id": "11",
+        "adi": "Yıldızların ardında",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0063021358.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-123456-78-9",
+        "barkodno": "1234567890123",
+        "yazar": "Gökyüzü arayışı",
+        "yayinevi": "Yıldız yayınları"
+      },
+      {
+        "id": "12",
+        "adi": "Sisli dağlar",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0743219570.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-234567-89-0",
+        "barkodno": "2345678901234",
+        "yazar": "Dağ keşfi",
+        "yayinevi": "Dağcılık yayınları"
+      },
+      {
+        "id": "13",
+        "adi": "Bilinmeyen şehir",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0553384805.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-345678-90-1",
+        "barkodno": "3456789012345",
+        "yazar": "Şehir gezgini",
+        "yayinevi": "Şehir rehberi yayınları"
+      },
+      {
+        "id": "14",
+        "adi": "Altın topraklar",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0345498453.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-456789-01-2",
+        "barkodno": "4567890123456",
+        "yazar": "Toprak altınları",
+        "yayinevi": "Toprak kitaplar"
+      },
+      {
+        "id": "15",
+        "adi": "Gizli kapı",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0586072594.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-567890-12-3",
+        "barkodno": "5678901234567",
+        "yazar": "Kapı muhafızı",
+        "yayinevi": "Gizemli kapı yayınları"
+      },
+      {
+        "id": "16",
+        "adi": "Sonsuz ufuklar",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/1933397268.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-678901-23-4",
+        "barkodno": "6789012345678",
+        "yazar": "Ufuk arayışı",
+        "yayinevi": "Ufuk kitapları"
+      },
+      {
+        "id": "17",
+        "adi": "Bilinmeyen gezegen",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/1601870124.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-789012-34-5",
+        "barkodno": "7890123456789",
+        "yazar": "Gezegen kaşifi",
+        "yayinevi": "Gezegen yayınları"
+      },
+      {
+        "id": "18",
+        "adi": "Karanlık sular",
+        "resim": "https://pics.cdn.librarything.com/picsizes/44/ad/44ad6185cac27f6593862385641444341587343_v5.jpg",
+        "isbnno": "978-0-890123-45-6",
+        "barkodno": "8901234567890",
+        "yazar": "Sualtı araştırmacısı",
+        "yayinevi": "Denizaltı yayınları"
+      },
+      {
+        "id": "19",
+        "adi": "Bilinmeyen dağlar",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0312966059.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-901234-56-7",
+        "barkodno": "9012345678901",
+        "yazar": "Dağcı rüyalar",
+        "yayinevi": "Dağ yolu yayınları"
+      },
+      {
+        "id": "20",
+        "adi": "Gökyüzü masalları",
+        "resim": "https://images-na.ssl-images-amazon.com/images/P/0684815028.01._SX450_SY635_SCLZZZZZZZ_.jpg",
+        "isbnno": "978-0-012345-67-8",
+        "barkodno": "0123456789012",
+        "yazar": "Masal yolcusu",
+        "yayinevi": "Gökyüzü yayınları"
+      }
+    ]
+    
+  }
